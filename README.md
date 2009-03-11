@@ -8,4 +8,4 @@ Creates a template tag called ``{% revision %}`` that returns the current svn ve
 3.  Include ``{% revision %}`` in your template file.
 
 ## Notes:
-* Requires svnversion to be installed.
+* Requires ``svnversion`` to be installed.
